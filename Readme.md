@@ -1,4 +1,4 @@
-# Ferramenats utilizadas
+# Ferramentas utilizadas
 
 * Android Studio
 * Firebase
