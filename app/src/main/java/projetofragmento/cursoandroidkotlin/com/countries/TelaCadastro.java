@@ -81,7 +81,7 @@ public class TelaCadastro extends AppCompatActivity {
                     email.setText("");
                     senha.setText("");
 
-
+                    finish();
 
                 }else{
                     String erroCadastrar = "";
