@@ -120,7 +120,7 @@ public class PaisesFragment extends Fragment {
                 code.setText(codeText);
 
                 //Butao salvar
-                builder.setPositiveButton("Comfirmar", new DialogInterface.OnClickListener() {
+                builder.setPositiveButton("Confirmar", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
 
